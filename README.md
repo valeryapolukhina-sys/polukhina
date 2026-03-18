@@ -1,0 +1,2 @@
+# polukhina
+Знакомство с GitHub
